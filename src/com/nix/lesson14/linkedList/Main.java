@@ -10,7 +10,7 @@ public class Main {
         lt.print();
         lt.add(4);
         lt.print();
-        lt.add(4);// 7 is an invalid index
+        lt.add(4);
         lt.add(8);
         lt.print();
     }
